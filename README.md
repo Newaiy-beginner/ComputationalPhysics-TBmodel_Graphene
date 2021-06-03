@@ -1,2 +1,3 @@
 # Tight-binding Model of strained Graphene
-I use Tight-binding method to study some interesting properties of the strained Graphene band structure, both analytically and numerically
+I use Tight-binding method to study some interesting properties of the strained Graphene band structure, both analytically and numerically.
+The summary is in `final_presentation.pdf`
